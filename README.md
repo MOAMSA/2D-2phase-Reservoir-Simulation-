@@ -1,4 +1,4 @@
-![Solving 2phase 2dimention Reservoir Simulation with Aquifer ](readme.png)
+![Solving 2phase 2dimention Reservoir Simulation with Aquifer ](readme.PNG)
 
 Reservoir studies are conducted to predict future reservoir performance based on past data and to enhance the final hydrocarbon recovery. Reservoir simulators are commonly used for this purpose.
 
