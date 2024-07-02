@@ -14,9 +14,9 @@ The IMPES method employs implicit pressure and explicit water saturation calcula
 
 Program capabilities include:
 
-Handling unlimited wells with different conditions (production, injection, fixed rate, fixed bottom-hole pressure, etc.).
-Modifying various input parameters, including matrices for depth, permeability, dimensions, initial oil pressure, and saturation. It can interpolate values from different tables.
-Automatically performing Material Balance Checks to validate results.
-Allowing input of different time intervals, densities, dimensions, and adjusting boundaries (Aquifer, No Flow Boundary).
-Providing outputs such as total oil produced, recovery factor, final pressure, saturation levels, water cut, and total water injected.
+* Handling unlimited wells with different conditions (production, injection, fixed rate, fixed bottom-hole pressure, etc.).
+* Modifying various input parameters, including matrices for depth, permeability, dimensions, initial oil pressure, and saturation. It can interpolate values from different tables.
+* Automatically performing Material Balance Checks to validate results.
+* Allowing input of different time intervals, densities, dimensions, and adjusting boundaries (Aquifer, No Flow Boundary).
+* Providing outputs such as total oil produced, recovery factor, final pressure, saturation levels, water cut, and total water injected.
 
