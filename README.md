@@ -1,4 +1,5 @@
-Solving 2phase 2dimention Reservoir Simulation with Aquifer 
+![Solving 2phase 2dimention Reservoir Simulation with Aquifer ](readme.png)
+
 Reservoir studies are conducted to predict future reservoir performance based on past data and to enhance the final hydrocarbon recovery. Reservoir simulators are commonly used for this purpose.
 
 A reservoir simulator is a computer program that solves a system of differential equations representing multiphase flow in a porous medium. Simulators are categorized based on:
